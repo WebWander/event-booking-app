@@ -8,7 +8,7 @@ import "./App.css"
 
 export default function App() {
   return (
-    <div className="md:max-xl:flex">
+    <div cla>
       <Home />
       <img src="/catering-buffet.jpg" className="pt-10"/>
       <div>
