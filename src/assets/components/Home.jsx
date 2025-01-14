@@ -15,7 +15,6 @@ export default function Home() {
       </div>
       <div className='flex flex-row justify-center space-x-10'>
         <Navbar />
-        <SearchBar />
         <DehazeRoundedIcon /> 
       </div>
     </div>
