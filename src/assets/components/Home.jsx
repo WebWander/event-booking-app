@@ -1,5 +1,5 @@
 import React from 'react'
-import SearchBar from './SearchBar'
+import Footer from './Footer'
 import Navbar from './Navbar'
 import DehazeRoundedIcon from '@mui/icons-material/DehazeRounded';
 
